@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Y0ussef</h1>
 <h3 align="center">A passionate (still beginner) bug bounty hunter from 🇪🇬</h3>
 
-<p align="center" style="margin:10px"> <img src="https://komarev.com/ghpvc/?username=y0ussefelgohre&label=Profile%20views&color=0e75b6&style=flat" alt="y0ussefelgohre" > </p>
+<p align="center" style="margin-inline:10px"> <img src="https://komarev.com/ghpvc/?username=y0ussefelgohre&label=Profile%20views&color=0e75b6&style=flat" alt="y0ussefelgohre" > </p>
 
 <p align="center" style="margin:10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ussefelgohre" alt="y0ussefelgohre" /></a> </p>
 

@@ -19,7 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0ussefelgohre&show_icons=true&locale=en&layout=compact" alt="y0ussefelgohre" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0ussefelgohre&show_icons=true&locale=en" alt="y0ussefelgohre" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y0ussefelgohre&" alt="y0ussefelgohre" /></p>
-

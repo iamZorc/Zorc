@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Y0ussef</h1>
-<h3 align="center">A passionate bug bounty hunter trying to level up everyday</h3>
-
-<p align="center"> <a href="https://twitter.com/y0ussefelgohre" target="blank"><img src="https://img.shields.io/twitter/follow/y0ussefelgohre?logo=twitter&style=for-the-badge" alt="y0ussefelgohre" /></a> </p>
+<h3 align="center">a bug bounty hunter</h3>
 
 - I’m currently working on [enumSH](https://github.com/y0ussefelgohre/enumSH)
 

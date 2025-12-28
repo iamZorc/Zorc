@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Y0ussef</h1>
+<h1 align="center">Hi 👋, I'm Y0ussef (aka Zorc)</h1>
 <h3 align="center">a bug bounty hunter</h3>
 
 - I’m currently working on [enumSH](https://github.com/y0ussefelgohre/enumSH)
